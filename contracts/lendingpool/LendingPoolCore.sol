@@ -1,8 +1,8 @@
 pragma solidity ^0.5.0;
 
 /**
-* imports ready contracts from openzeppelin
-
+imports ready contracts from openzeppelin
+**/
 import "openzeppelin-solidity/contracts/math/SafeMath.sol";
 import "openzeppelin-solidity/contracts/token/ERC20/SafeERC20.sol";
 import "openzeppelin-solidity/contracts/token/ERC20/ERC20.sol";
